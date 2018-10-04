@@ -2,6 +2,9 @@
   "name": "@exmg/tslint-config",
   "version": "1.0.0",
   "main": "tslint-config.json",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "repository": "git@github.com:exmg/tslint-config.git",
   "author": "Ex Machina",
   "license": "MIT",
