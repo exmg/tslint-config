@@ -1,0 +1,12 @@
+{
+  "name": "@exmg/tslint-config",
+  "version": "1.0.0",
+  "main": "tslint-config.json",
+  "repository": "git@github.com:exmg/tslint-config.git",
+  "author": "Ex Machina",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.0",
+    "tslint-react": "^3.6.0"
+  }
+}
