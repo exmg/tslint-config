@@ -5,11 +5,12 @@
         "jasmine": true
     },
     "rules": {
+        "align": [true, "elements", "members", "statements"],
         "import-name": false,
-        "variable-name": [true, "ban-keywords", "check-format", "allow-pascal-case"],
+        "jsx-boolean-value": false,
+        "jsx-no-multiline-js": false,
         "max-line-length": false,
         "object-shorthand-properties-first": false,
-        "jsx-no-multiline-js": false,
-        "jsx-boolean-value": false
+        "variable-name": [true, "ban-keywords", "check-format", "allow-pascal-case"]
     }
 }
